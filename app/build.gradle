@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.adiii.tvhome'
+    namespace 'com.adiii.tvhome.v2'
     compileSdk 34
 
     defaultConfig {
